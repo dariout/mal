@@ -1,4 +1,3 @@
-
 Terms Of use 𝕮𝖞𝖇𝖔𝖗𝖌 𝕽𝖆𝖓𝖘𝖔𝖒𝖜𝖆𝖗𝖊 V1.0
 1) This tool designed to penetration testing
 2) You are responsible for any illegal use
